@@ -60,7 +60,7 @@ honesty is the point.
 
 | File | What it is |
 |---|---|
-| `glassdoor_sentiment.ipynb` | The full analysis notebook, end to end |
+| `glassdoor_01_diagnostic.ipynb` | The full analysis notebook, end to end |
 | `dashboard.py` | Interactive Streamlit dashboard (Executive + Risk & Voice views) |
 | `requirements.txt` | Dependencies for the dashboard |
 | `deck/` | CEO/CHRO presentation deck (14 slides) |
